@@ -1,7 +1,8 @@
 - 👋 Hi, I’m GAGANA-P
 - I’m currently a computer science 🖥️ student in PES university RR campus, Bangalore.
 - Passionate about designing solutions that improve people's lives.
-- I’m interested in Python computational problem solving, backend, frontend, passionately curious about quantum physics, cosmology.
+- Information lover 📚
+- I’m interested in Python computational problem solving, backend, frontend, passionately curious about quantum physics, cosmology❤️.
 - I follow --"Never be limited by other people's limited imagination."✨
   
 
