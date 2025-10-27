@@ -3,7 +3,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - 🎓 I'm a Student pursuing **CSE** at PES University (RR campus)
 - 🌐 Currently working on **Web Development** and **APIs**  
