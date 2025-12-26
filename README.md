@@ -3,20 +3,30 @@
 
 ---
 
-## About Me
+## 💫 About Me
 
 - 🎓 I'm a Student pursuing **CSE** at PES University (RR campus)
-- 🌐 Currently working on **Web Development** and **APIs**  
+- 🌐 Currently working on **Web Development** and **ML models**  
 - 🧠 Learning **Machine Learning** and **Data Analytics**  
-- 🤝 Worked on connected vehicle systems involving **realistic traffic simulation** and **hazard modeling** using SUMO
+- 🤝 Worked on connected vehicle systems involving **realistic traffic simulation** and **hazard modelling** using SUMO
 - 🎯 Passionate to build real world **ML systems**
 
 
 
 ## 🌐 Connect with Me
 
+<div align="center">
 <a href="https://www.linkedin.com/in/gagana-p-514am/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:gaganap207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+
+
+## 🏆 Badges
+
+### Hacktoberfest'25 Badges
+
+[![Holopin Badges](https://holopin.me/gaganap05)](https://holopin.io/@gaganap05)
 
 ---
 
