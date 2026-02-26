@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=180&section=header&text=Select%20Gagana%20from%20Tech%20👋&fontSize=25&fontColor=fff&animation=fadeIn"/>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=180&section=header&text=Hi!%20I'm%20Gagana%20P👋&fontSize=25&fontColor=fff&animation=fadeIn"/>  
 
 ---
 
